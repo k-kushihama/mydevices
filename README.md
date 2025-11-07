@@ -53,7 +53,7 @@
 | :--- | :--- | :--- |
 | **Model** | ASUS GT531 | Corei7-9750H |
 | **OS** | Windows11 Pro | |
-| **CPU/GPU** | Corei7-9750H | 6コアCPU / 4コアGPU |
+| **CPU/GPU** | Corei7-9750H / GTX1650 | 6コアCPU / 4コアGPU |
 | **RAM** | 32GB | ユニファイドメモリ |
 | **Storage** | 512GB SSD | |
 
