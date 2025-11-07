@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows_11-blue?logo=windows11" alt="Windows 11">
-  <img src="https://img.shields.io/badge/OS-macOS_Sonoma-grey?logo=apple" alt="macOS Sonoma">
+  <img src="https://img.shields.io/badge/OS-macOS_Sequonia-grey?logo=apple" alt="macOS Sonoma">
   <img src="https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu" alt="Ubuntu">
   <img src="https://img.shields.io/badge/OS-Proxmox-blueviolet?logo=proxmox" alt="Proxmox">
   <img src="https://img.shields.io/badge/CPU-Intel-blue?logo=intel" alt="Intel CPU">
@@ -24,13 +24,14 @@
 | カテゴリ | スペック | 備考 |
 | :--- | :--- | :--- |
 | **OS** | Windows 11 Pro | `23H2` |
-| **CPU** | Intel Core i9-13900K | 24コア / 32スレッド |
+| **CPU** | Intel Core i9-14900K | 24コア / 32スレッド |
 | **GPU** | NVIDIA GeForce RTX 4090 | 24GB GDDR6X |
 | **RAM** | 64GB DDR5 (32GB x2) | CORSAIR VENGEANCE @ 5600MHz |
-| **Storage (OS)** | 2TB NVMe SSD | Samsung 990 PRO |
-| **Storage (Data)** | 4TB NVMe SSD | Crucial P5 Plus |
-| **Monitor 1** | 32" 4K 144Hz | Dell G3223Q |
-| **Monitor 2** | 27" WQHD 165Hz | (サブモニター) |
+| **Storage (OS)** | 2TB NVMe SSD | Predator SSD |
+| **Storage (Data)** | 1TB NVMe SSD | Corsair SSD |
+| **Monitor 1** | 27" 144Hz | AOC |
+| **Monitor 2** | 24" 75Hz | HP  |
+| **Monitor 3** | 18" 60Hz | TOSHIBA  |
 
 ### Main Laptop
 
@@ -38,11 +39,11 @@
 
 | カテゴリ | スペック | 備考 |
 | :--- | :--- | :--- |
-| **Model** | MacBook Pro 14インチ | M3 Max |
-| **OS** | macOS Sonoma | |
-| **CPU/GPU** | Apple M3 Max | 16コアCPU / 40コアGPU |
-| **RAM** | 64GB | ユニファイドメモリ |
-| **Storage** | 2TB SSD | |
+| **Model** | MacBook Pro 14インチ | M4 |
+| **OS** | macOS Sequonia | |
+| **CPU/GPU** | Apple M4 | 10コアCPU / 16コアGPU |
+| **RAM** | 24GB | ユニファイドメモリ |
+| **Storage** | 512GB SSD | |
 
 ### Sub Laptop
 
@@ -50,11 +51,11 @@
 
 | カテゴリ | スペック | 備考 |
 | :--- | :--- | :--- |
-| **Model** | MacBook Pro 14インチ | M3 Max |
-| **OS** | macOS Sonoma | |
-| **CPU/GPU** | Apple M3 Max | 16コアCPU / 40コアGPU |
-| **RAM** | 64GB | ユニファイドメモリ |
-| **Storage** | 2TB SSD | |
+| **Model** | ASUS GT531 | Corei7-9750H |
+| **OS** | Windows11 Pro | |
+| **CPU/GPU** | Corei7-9750H | 6コアCPU / 4コアGPU |
+| **RAM** | 32GB | ユニファイドメモリ |
+| **Storage** | 512GB SSD | |
 
 ---
 
@@ -64,7 +65,7 @@
 
 ### 🏠 Home Lab
 
-自宅サーバー（Proxmox VE）で稼働しているVMやコンテナです．
+自宅及びデータセンターで稼働しているサーバースペックです．
 
 | カテゴリ | スペック | 備考 |
 | :--- | :--- | :--- |
