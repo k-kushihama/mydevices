@@ -1,6 +1,6 @@
 # 🖥️ My Gear & Infrastructure
 
-このリポジトリは，私が使用しているワークステーション，サーバー，および関連するインフラストラクチャの構成を管理・文書化するためのものです．
+このリポジトリは，使用しているワークステーション，サーバー，および関連するインフラストラクチャの構成を管理・文書化するために作成．
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows_11-blue?logo=windows11" alt="Windows 11">
@@ -20,7 +20,6 @@
 
 ### 💻 Main Desktop (Kaguya)
 
-開発とデザインのコアとなるマシンです．
 
 | カテゴリ | スペック | 備考 |
 | :--- | :--- | :--- |
