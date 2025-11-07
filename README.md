@@ -1,4 +1,4 @@
-# 🖥️ My Gear & Infrastructure
+# 🖥️ My Devices & Infrastructure.
 
 このリポジトリは，使用しているワークステーション，サーバー，および関連するインフラストラクチャの構成を管理・文書化するために作成．
 
