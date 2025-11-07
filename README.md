@@ -18,7 +18,7 @@
 
 メインの作業環境です．
 
-### 💻 Main Desktop (Kaguya)
+### 💻 Main Desktop
 
 
 | カテゴリ | スペック | 備考 |
@@ -32,7 +32,7 @@
 | **Monitor 1** | 32" 4K 144Hz | Dell G3223Q |
 | **Monitor 2** | 27" WQHD 165Hz | (サブモニター) |
 
-### portátil ｜ ラップトップ (Miyuki)
+### Laptop
 
 外出先やミーティングで使用するポータブル環境です．
 
@@ -50,7 +50,7 @@
 
 自宅およびクラウドで稼働しているサーバー群です．
 
-### 🏠 Home Lab (Fujiwara)
+### 🏠 Home Lab
 
 自宅サーバー（Proxmox VE）で稼働しているVMやコンテナです．
 
