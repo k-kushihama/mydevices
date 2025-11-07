@@ -32,7 +32,19 @@
 | **Monitor 1** | 32" 4K 144Hz | Dell G3223Q |
 | **Monitor 2** | 27" WQHD 165Hz | (サブモニター) |
 
-### Laptop
+### Main Laptop
+
+外出先やミーティングで使用するポータブル環境です．
+
+| カテゴリ | スペック | 備考 |
+| :--- | :--- | :--- |
+| **Model** | MacBook Pro 14インチ | M3 Max |
+| **OS** | macOS Sonoma | |
+| **CPU/GPU** | Apple M3 Max | 16コアCPU / 40コアGPU |
+| **RAM** | 64GB | ユニファイドメモリ |
+| **Storage** | 2TB SSD | |
+
+### Sub Laptop
 
 外出先やミーティングで使用するポータブル環境です．
 
