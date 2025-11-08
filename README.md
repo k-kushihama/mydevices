@@ -110,7 +110,7 @@
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E3-1271 v3 @3.60GHz| 3601 Mhz(4コア8スレッド) |
 | **RAM** | DDR3-1600 udimm 16GB | |
 | **Storage** | ST Disk HDD 500GB ||
-| **Node** | Node1 | 自社オンプレのクラスタ運用|
+| **Node** | Node1 | クラスタ運用|
 
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
