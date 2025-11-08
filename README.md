@@ -67,13 +67,23 @@
 
 自宅及びデータセンターで稼働しているサーバースペックです．
 
-| カテゴリ | スペック | 備考 |
+| カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
-| **Model** | MacBook Pro 14インチ | M3 Max |
-| **OS** | macOS Sonoma | |
-| **CPU/GPU** | Apple M3 Max | 16コアCPU / 40コアGPU |
-| **RAM** | 64GB | ユニファイドメモリ |
-| **Storage** | 2TB SSD | |
+| **Model** | HP ProLiant DL360e Gen8 | | 
+| **OS** | Ubuntu Desktop 20.04 | |
+| **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2470 @2.30GHz| 2294 Mhz(8コア16スレッド)×2 |
+| **RAM** | DDR3-1600 rdimm 192GB | ECCメモリ |
+| **Storage** | HP SCSI Disk HDD 150GB,SATA HDD1TB×6 | （RAID10）|
+| **Node** | Node1 | 自社クラウドの運営|
+
+| カテゴリ | スペック | 備考 | 
+| :--- | :--- | :--- |
+| **Model** | NEC N8100-2426Y | | 
+| **OS** | Ubuntu Desktop 20.04 | |
+| **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2620 v4 @2.10GHz| 2101 Mhz(8コア16スレッド) |
+| **RAM** | DDR4-2133 rdimm 96GB | ECCメモリ |
+| **Storage** | WDC Disk SDD 500GB ||
+| **Node** | Node1 | 自社クラウドの運営|
 
 
 
