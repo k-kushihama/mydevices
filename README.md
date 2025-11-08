@@ -82,5 +82,6 @@
 使用しているネットワークです．
 
 | プロバイダ | プラン | 使用ノード |
-
+| :--- | :--- | :--- |
+| BIGLOBE | 10Gbps IPoE | Node1 |
 | BIGLOBE | 10Gbps IPoE | Node1 |
