@@ -88,11 +88,11 @@
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
 | **Model** | DELL PowerEdge R620 | | 
-| **OS** | Ubuntu Desktop 20.04 | |
+| **OS** | Proxmox VE | |
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2667 v2 @3.30GHz| 3300 Mhz(8コア16スレッド)×2 |
 | **RAM** | DDR3-1600 rdimm 256GB | ECCメモリ |
 | **Storage** | DELL SCSI Disk HDD 500GB×2 ||
-| **Node** | Node1 | 自社マーケティングシステムのオンプレ運用|
+| **Node** | Node1 | Proxmoxのクラスタ運用|
 
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
@@ -110,7 +110,7 @@
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E3-1271 v3 @3.60GHz| 3601 Mhz(4コア8スレッド) |
 | **RAM** | DDR3-1600 udimm 16GB | |
 | **Storage** | ST Disk HDD 500GB ||
-| **Node** | Node1 | クラスタ運用|
+| **Node** | Node1 | Proxmoxのクラスタ運用|
 
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
