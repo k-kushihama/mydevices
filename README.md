@@ -142,5 +142,6 @@
 | プロバイダ | プラン | 使用ノード |
 | :--- | :--- | :--- |
 | BIGLOBE | 10Gbps IPoE | Node1 |
-| KDDI | 1Gbps IPoE | Node2 |
+| auひかり | 1Gbps IPoE | Node2 |
+| Softbank | 100Mbps PPPoE | Node3 |
 
