@@ -29,6 +29,7 @@
 | **RAM** | 64GB DDR5 (32GB x2) | CORSAIR VENGEANCE @ 5600MHz |
 | **Storage (OS)** | 2TB NVMe SSD | Predator SSD |
 | **Storage (Data)** | 1TB NVMe SSD | Corsair SSD |
+| **Midi** | 88 Key  | M-AUDIO |
 | **Monitor 1** | 27" 144Hz | AOC |
 | **Monitor 2** | 24" 75Hz | HP  |
 | **Monitor 3** | 18" 60Hz | TOSHIBA  |
