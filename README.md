@@ -75,7 +75,7 @@
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
 | **Model** | HP ProLiant DL360e Gen8 | | 
-| **OS** | Ubuntu Desktop 20.04 | |
+| **OS** | Proxmox VE 9.1 / Ubuntu 22.04| |
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2470 @2.30GHz| 2294 Mhz(8コア16スレッド)×2 |
 | **RAM** | DDR3-1600 rdimm 192GB | ECCメモリ |
 | **Storage** | HP SCSI Disk HDD 150GB,SATA HDD1TB×6 | （RAID10）|
@@ -84,7 +84,7 @@
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
 | **Model** | NEC N8100-2426Y | | 
-| **OS** | Ubuntu Desktop 20.04 | |
+| **OS** | Proxmox VE 9.1  / Ubuntu 22.04 | |
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2620 v4 @2.10GHz| 2101 Mhz(8コア16スレッド) |
 | **RAM** | DDR4-2133 rdimm 96GB | ECCメモリ |
 | **Storage** | WDC Disk SDD 500GB ||
@@ -93,7 +93,7 @@
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
 | **Model** | DELL PowerEdge R620 | | 
-| **OS** | Proxmox VE | |
+| **OS** | Proxmox VE 9.1  / Ubuntu 24.04| |
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E5-2667 v2 @3.30GHz| 3300 Mhz(8コア16スレッド)×2 |
 | **RAM** | DDR3-1600 rdimm 256GB | ECCメモリ |
 | **Storage** | DELL SCSI Disk HDD 500GB×2 ||
@@ -111,7 +111,7 @@
 | カテゴリ | スペック | 備考 | 
 | :--- | :--- | :--- |
 | **Model** | DELL OptiPlex 3020 | | 
-| **OS** | Proxmox VE | |
+| **OS** | Proxmox VE 9.1 | |
 | **CPU/GPU** | Intel(R) Xeon(R) CPU E3-1271 v3 @3.60GHz| 3601 Mhz(4コア8スレッド) |
 | **RAM** | DDR3-1600 udimm 16GB | |
 | **Storage** | ST Disk HDD 500GB ||
